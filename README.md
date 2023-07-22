@@ -1,1 +1,1 @@
-# sample-disneyhotstar-clone
+# Sample Disney Hotstar Clone
